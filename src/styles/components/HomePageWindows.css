@@ -1,0 +1,38 @@
+.window-container {
+
+    height: 100vh;
+    overflow-y: scroll;
+
+
+}
+
+
+.window-container .frame {
+
+    font-size: 10rem;
+    
+
+}
+
+
+.window-container .frame:nth-child(1) {
+    
+    background-color: aquamarine;
+
+
+}
+
+.window-container .frame:nth-child(2) {
+    
+    background-color: rgb(185, 255, 185);
+
+
+}
+
+
+.window-container .frame:nth-child(3) {
+    
+    background-color: rgb(243, 245, 164)
+
+
+}

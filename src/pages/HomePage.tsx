@@ -1,13 +1,12 @@
 import React from 'react';
+import '../styles/pages/HomePage.css'
+import HomePageWindows from '../components/HomePageWindows'
 
 export default function HomePage() {
   return (
     <div>
 
-        <h1 className='text-3xl'>Hello</h1>
-
-
-
+      <HomePageWindows />
 
     </div>
   );  
