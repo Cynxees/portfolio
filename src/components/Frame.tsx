@@ -7,7 +7,7 @@ type FrameProps = {
 
 const Frame: React.FC<FrameProps> = ({ children }) => {
   return (
-    <div className="frame">
+    <div className="frame h-screen snap-start flex text-9xl">
       {children}
       
     </div>

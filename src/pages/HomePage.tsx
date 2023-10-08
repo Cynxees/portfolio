@@ -4,7 +4,7 @@ import HomePageWindows from '../components/HomePageWindows'
 
 export default function HomePage() {
   return (
-    <div>
+    <div className=''>
 
       <HomePageWindows />
 

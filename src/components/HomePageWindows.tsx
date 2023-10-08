@@ -7,7 +7,7 @@ import '../styles/components/HomePageWindows.css'
 const HomePageWindows: React.FC = () => {
     return (
 
-      <div className='window-container'>
+      <div className='window-container h-screen snap-y snap-mandatory overflow-y-scroll overflow-x-hidden'>
 
         <IntroWindow />
         <JourneyWindow />

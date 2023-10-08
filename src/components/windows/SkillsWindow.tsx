@@ -7,7 +7,7 @@ const SkillsWindow: React.FC = () => {
       {
 
 
-        <div>
+        <div className='items-center'>
 
             Skills
 
